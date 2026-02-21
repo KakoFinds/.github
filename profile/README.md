@@ -14,7 +14,7 @@ Our primary architecture features:
 * **Styling & UI:** Radix UI, Framer Motion
 
 ## 🌐 Our Links
-- 🌍 **App:** [kakofinds.vercel.app](https://kakofinds.vercel.app)
+- 🌍 **Web:** [kakofinds.app](https://www.kakofinds.app/)
 - 👨‍💻 **Founder / Developer:** [Dawid Buszta (DEV-industry)](https://github.com/DEV-industry)
 
 ---
